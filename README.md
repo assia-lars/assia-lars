@@ -134,8 +134,8 @@ Exploring sensor-based environmental monitoring and connected agricultural syste
 |:---|:---|
 | Arabic | C1 |
 | German | B2 |
-| French | B1 |
-| English | B1 |
+| French | B2|
+| English | B2 |
 
 ---
 
