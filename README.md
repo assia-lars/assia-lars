@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./images/banner.gif" width="100%" alt="Assia Bouhali - Embedded Systems"/>
+</div>
+
+<br/>
 ## Hi there 👋
 
 <div align="center">
